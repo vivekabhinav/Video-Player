@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548743804617",
+    "firebase_url": "https://video-player-e0f0b.firebaseio.com",
+    "project_id": "video-player-e0f0b",
+    "storage_bucket": "video-player-e0f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548743804617:android:e2c3b769ea5eea8ab57f18",
+        "android_client_info": {
+          "package_name": "com.abhinav.videostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548743804617-9jtqrj56os64m5tlok7k9sfe4nuc46hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhinav.videostreaming",
+            "certificate_hash": "07028f81397751e8f463d56e31ab49489e405517"
+          }
+        },
+        {
+          "client_id": "548743804617-7nsdqv9ksnsdk8plv5pud21m6s9tfifv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYfSq7zj1QwobVv5M8Qci4UHo2KgrmD78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548743804617-7nsdqv9ksnsdk8plv5pud21m6s9tfifv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
